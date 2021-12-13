@@ -32,6 +32,12 @@ I also used the Realm framework to save news so that they could be read without 
 <img src="Images/Welcome_3.png" alt="icon">
 </h1>
 
+If you do not have an Internet connection, then you will be shown an Alert from which you can go to the settings or just close it.
+
+<h1 align="center">
+<img src="Images/Alert.png" alt="icon">
+</h1>
+
 Clicking on a cell in the TableView will take you to Safari. Have a nice day and enjoy my application.
 
 <h1 align="center">
