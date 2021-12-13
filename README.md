@@ -35,5 +35,5 @@ I also used the Realm framework to save news so that they could be read without 
 Clicking on a cell in the TableView will take you to Safari. Have a nice day and enjoy my application.
 
 <h1 align="center">
-<img src="Images/Welcome_1.png" alt="icon">
+<img src="Images/Welcome_11.png" alt="icon">
 </h1>
